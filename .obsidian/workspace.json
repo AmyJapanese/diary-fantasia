@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3da4c3f72a1db4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary characters/writer/加賀美メル.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "加賀美メル"
-            }
-          },
-          {
             "id": "52e9ccd46455cb14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary characters/writer/加賀美メル.md",
+                "file": "real characters/Sano family/佐野あかり.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "加賀美メル"
+              "title": "佐野あかり"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary characters/writer/加賀美メル.md",
+                "file": "real characters/Sano family/佐野あかり.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "加賀美メルへのバックリンク"
+              "title": "佐野あかりへのバックリンク"
             }
           },
           {
@@ -138,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary characters/writer/加賀美メル.md",
+                "file": "real characters/Sano family/佐野あかり.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "加賀美メルからのアウトゴーイングリンク"
+              "title": "佐野あかりからのアウトゴーイングリンク"
             }
           },
           {
@@ -197,8 +182,8 @@
     "diary geograhy/ロスクライン城.md",
     "real characters/Sano family/佐野あかり.md",
     "(idealist/name-jp.md",
-    "(idealist/tag-en.md",
     "diary characters/writer/加賀美メル.md",
+    "(idealist/tag-en.md",
     "(overview/無印概要.md",
     "diary characters/red's shop/赤堀レッド.md",
     "(template/空白の設定.md",
