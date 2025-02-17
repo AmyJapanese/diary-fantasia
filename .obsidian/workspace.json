@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(outline/テキトーあらすじ.md",
+                "file": "real characters/Sano family/佐野あかり.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テキトーあらすじ"
+              "title": "佐野あかり"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(outline/テキトーあらすじ.md",
+                "file": "real characters/Sano family/佐野あかり.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "テキトーあらすじからのアウトゴーイングリンク"
+              "title": "佐野あかりからのアウトゴーイングリンク"
             }
           },
           {
@@ -178,8 +178,8 @@
   },
   "active": "52e9ccd46455cb14",
   "lastOpenFiles": [
-    "diary characters/writer/加賀美メル.md",
     "(outline/テキトーあらすじ.md",
+    "diary characters/writer/加賀美メル.md",
     "diary geograhy/ロスクライン城.md",
     "real characters/Sano family/佐野あかり.md",
     "(idealist/name-jp.md",
