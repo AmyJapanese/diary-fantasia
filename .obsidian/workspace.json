@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ロスクライン城"
             }
+          },
+          {
+            "id": "98b147523ea21cf5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52e9ccd46455cb14",
+  "active": "98b147523ea21cf5",
   "lastOpenFiles": [
     "diary characters/red's shop/赤堀レッド.md",
     "diary geograhy/ロスクライン城.md",
