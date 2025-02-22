@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real characters/Sano family/佐野あかり.md",
+                "file": "two world/diary world/基本概要.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "佐野あかり"
+              "title": "基本概要"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real characters/Sano family/佐野あかり.md",
+                "file": "two world/diary world/基本概要.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "佐野あかりからのアウトゴーイングリンク"
+              "title": "基本概要からのアウトゴーイングリンク"
             }
           },
           {
@@ -179,12 +179,12 @@
   "active": "52e9ccd46455cb14",
   "lastOpenFiles": [
     "(outline/テキトーあらすじ.md",
-    "(overview/無印概要.md",
+    "diary characters/writer/加賀美メル.md",
     "real characters/Sano family/佐野あかり.md",
+    "(overview/無印概要.md",
     "(template/レギュメン用プロフィール.md",
     "diary geograhy/ロスクライン城.md",
     "diary characters/red's shop/赤堀レッド.md",
-    "diary characters/writer/加賀美メル.md",
     "(idealist/name-jp.md",
     "(idealist/tag-en.md",
     "(template/空白の設定.md",
