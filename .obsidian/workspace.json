@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "two world/writer/ライター.md",
+                "file": "two world/writer/創世の紙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ライター"
+              "title": "創世の紙"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "two world/writer/ライター.md",
+                "file": "two world/writer/創世の紙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ライターへのバックリンク"
+              "title": "創世の紙へのバックリンク"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "two world/writer/ライター.md",
+                "file": "two world/writer/創世の紙.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "ライターからのアウトゴーイングリンク"
+              "title": "創世の紙からのアウトゴーイングリンク"
             }
           },
           {
@@ -193,6 +193,7 @@
   },
   "active": "6276f750e23e676e",
   "lastOpenFiles": [
+    "two world/writer/ライター.md",
     "two world/writer/オリジン.md",
     "two world/reality/基底世界.md",
     "two world/diary world/空想エネルギー.md",
@@ -215,7 +216,6 @@
     "(idealist/tag-en.md",
     "(template/空白の設定.md",
     "(idealist",
-    "two world/writer/ライター.md",
     "diary characters/red's shop",
     "real characters",
     "diary geograhy",
