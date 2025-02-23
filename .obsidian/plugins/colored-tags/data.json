@@ -76,7 +76,21 @@
     "shadow/toxicparent": 3,
     "ally/subplot": 3,
     "minitagonist/contrast": 1,
-    "ally/hero": 4
+    "ally/hero": 4,
+    "rankA": 38,
+    "rankAA": 39,
+    "rank": 40,
+    "rank/AA": 1,
+    "rankB": 41,
+    "rankCC": 42,
+    "rankB-": 43,
+    "rankS": 44,
+    "rank/S": 2,
+    "rank/B-": 3,
+    "rank/S-": 4,
+    "rank/B": 5,
+    "rank/C": 6,
+    "rank/A": 7
   },
   "_version": 3
 }
