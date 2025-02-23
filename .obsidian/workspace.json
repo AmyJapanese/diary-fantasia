@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "two world/writer/創世の紙.md",
+                "file": "(outline/テキトーあらすじ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "創世の紙"
+              "title": "テキトーあらすじ"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,6 +193,7 @@
   },
   "active": "6276f750e23e676e",
   "lastOpenFiles": [
+    "two world/writer/創世の紙.md",
     "two world/writer/ライター.md",
     "two world/writer/オリジン.md",
     "two world/reality/基底世界.md",
@@ -219,7 +220,6 @@
     "diary characters/red's shop",
     "real characters",
     "diary geograhy",
-    "two world/writer/創世の紙.md",
     "two world/writer/ソサエティ.md",
     "image/Soeロゴ.png",
     "(template/脇役用プロフィール.md",
