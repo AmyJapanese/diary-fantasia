@@ -90,7 +90,9 @@
     "rank/S-": 4,
     "rank/B": 5,
     "rank/C": 6,
-    "rank/A": 7
+    "rank/A": 7,
+    "rank/C-": 8,
+    "rank/system": 9
   },
   "_version": 3
 }
