@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "two world/diary world/システム.md",
+                "file": "two world/writer/ライター.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "システム"
+              "title": "ライター"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "two world/diary world/システム.md",
+                "file": "two world/writer/ライター.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "システムへのバックリンク"
+              "title": "ライターへのバックリンク"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "two world/diary world/システム.md",
+                "file": "two world/writer/ライター.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "システムからのアウトゴーイングリンク"
+              "title": "ライターからのアウトゴーイングリンク"
             }
           },
           {
@@ -193,6 +193,13 @@
   },
   "active": "6276f750e23e676e",
   "lastOpenFiles": [
+    "two world/writer/オリジン.md",
+    "two world/reality/基底世界.md",
+    "two world/diary world/空想エネルギー.md",
+    "(overview/無印概要.md",
+    "two world/diary world/基本概要.md",
+    "two world/diary world/システム.md",
+    "two world/diary world/移動方法.md",
     "real characters/Sano family/佐野はると.md",
     "real characters/Sano family/佐野はやて.md",
     "real characters/tsuki no oka JHS/天野めぐみ.md",
@@ -202,25 +209,18 @@
     "diary characters/red's shop/赤堀レッド.md",
     "diary characters/writer/加賀美メル.md",
     "diary geograhy/ロスクライン城.md",
-    "(overview/無印概要.md",
     "(outline/テキトーあらすじ.md",
-    "two world/diary world/基本概要.md",
     "(template/レギュメン用プロフィール.md",
     "(idealist/name-jp.md",
     "(idealist/tag-en.md",
     "(template/空白の設定.md",
-    "two world/diary world/空想エネルギー.md",
-    "two world/diary world/移動方法.md",
-    "two world/diary world/システム.md",
     "(idealist",
     "two world/writer/ライター.md",
     "diary characters/red's shop",
     "real characters",
-    "two world/reality/基底世界.md",
     "diary geograhy",
     "two world/writer/創世の紙.md",
     "two world/writer/ソサエティ.md",
-    "two world/writer/オリジン.md",
     "image/Soeロゴ.png",
     "(template/脇役用プロフィール.md",
     "(template/端役用プロフィール.md",
