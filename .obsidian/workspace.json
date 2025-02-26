@@ -152,7 +152,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6276f750e23e676e",
+  "active": "8117595852f0a388",
   "lastOpenFiles": [
     "(outline/テキトーあらすじ.md",
     "two world/diary world/基本概要.md",
